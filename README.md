@@ -1,3 +1,7 @@
+[![Docker Stars](https://img.shields.io/docker/stars/_/ubuntu.svg)](https://hub.docker.com/r/ball6847/parse-dashboard/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/mashape/kong.svg)](https://hub.docker.com/r/ball6847/parse-dashboard/)
+[![Docker Automated buil](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r/ball6847/parse-dashboard/)
+
 # Docker Image for parse-dashboard
 
 Dashboard for parse-server
