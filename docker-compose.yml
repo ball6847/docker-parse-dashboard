@@ -12,7 +12,7 @@ services:
     ports:
       - 1337:1337
   parse-dashboard:
-    image: ball6847/parse-dashboard
+    image: ball6847/parse-dashboard:1.0.25
     depends_on:
       - parse-server
     environment:
